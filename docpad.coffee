@@ -24,12 +24,12 @@ docpadConfig =
 
       # The website description (for SEO)
       description: """
-        Příjemná restaurace v pražské Libuši. Příjemné prostředí.
+        Příjemná restaurace v pražské Libni.
         """
 
       # The website keywords (for SEO) separated by commas
       keywords: """
-        restaurace, praha, libuš
+        restaurace, praha, libeň, karel
         """
 
       # The website author's name
