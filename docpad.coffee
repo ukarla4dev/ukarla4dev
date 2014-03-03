@@ -12,26 +12,24 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://www.vxk.cz"
+      url: "http://www.ukarla4.cz"
 
       # Here are some old site urls that you would like to redirect from
       oldUrls: [
-        'vxkcz.herokuapp.com'
+        'ukarla4.herokuapp.com'
       ]
 
       # The default title of our website
-      title: "Václav Klecanda"
+      title: "U Karla IV."
 
       # The website description (for SEO)
       description: """
-        Jsem programátor na volné noze, který se vyhýbá mainstreamu, linuxák a pirát.
-        Dělám webové aplikace především v pythonu (+django, Nginx s uWSGI, Postgres).
-        Mám zkušenosti s širokou škálou opensource programů a technologíí, ale rád se přiučím novým.
+        Příjemná restaurace v pražské Libuši. Příjemné prostředí.
         """
 
       # The website keywords (for SEO) separated by commas
       keywords: """
-        programátor, python, freelance, opensource, efektivni, vývoj
+        restaurace, praha, libuš
         """
 
       # The website author's name
