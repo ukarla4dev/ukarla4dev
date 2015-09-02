@@ -6,3 +6,5 @@ out/
 *.iml
 src/raw/vendor
 .docpad.db
+*.lock
+_site
